@@ -1,15 +1,15 @@
 # ARTI308-Lab9\
-📊 Decision Trees & Random Forest Project
+## 📊 Decision Trees & Random Forest Project
 
- Overview
+## Overview
 
 This project demonstrates the implementation of Decision Tree and Random Forest algorithms for classification using a loan dataset. The goal is to build models that can predict loan approval status based on applicant features.
 
-📂 Dataset
+## 📂 Dataset
 The dataset used in this project is:
 loan_data.csv
 
-🎯 Objectives
+## 🎯 Objectives
 
 Perform data preprocessing and cleaning
 Explore and visualize the dataset
@@ -18,7 +18,7 @@ Train a Random Forest Classifier
 Compare model performance
 Evaluate accuracy and other metrics
 
-Technologies Used
+## Technologies Used
 
 Python 🐍
 
@@ -34,7 +34,7 @@ matplotlib / seaborn
 
 scikit-learn
 
-Project Workflow
+## Project Workflow
 
 1. Data Preprocessing
 Handle missing values
@@ -51,20 +51,20 @@ Accuracy score
 Confusion matrix
 Classification report
 
-Results
+## Results
 
 The Decision Tree provides a simple and interpretable model
 The Random Forest improves accuracy by reducing overfitting
 Random Forest generally performs better due to ensemble learning
 
-Key Learnings
+## Key Learnings
 
 Understanding tree-based models
 Difference between single tree vs ensemble methods
 Importance of feature selection
 Handling real-world datasets
 
-📬 Future Improvements
+## 📬 Future Improvements
 
 Hyperparameter tuning
 Cross-validation
