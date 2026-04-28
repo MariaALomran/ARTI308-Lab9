@@ -24,7 +24,8 @@ Python 🐍
 
 Jupyter Notebook
 
-Libraries:
+## Libraries:
+
 pandas
 
 numpy
