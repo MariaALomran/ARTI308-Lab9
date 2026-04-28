@@ -10,6 +10,7 @@ The dataset used in this project is:
 loan_data.csv
 
 🎯 Objectives
+
 Perform data preprocessing and cleaning
 Explore and visualize the dataset
 Train a Decision Tree Classifier
@@ -18,6 +19,7 @@ Compare model performance
 Evaluate accuracy and other metrics
 
 Technologies Used
+
 Python 🐍
 Jupyter Notebook
 Libraries:
@@ -27,6 +29,7 @@ matplotlib / seaborn
 scikit-learn
 
 Project Workflow
+
 1. Data Preprocessing
 Handle missing values
 Encode categorical variables
@@ -43,17 +46,20 @@ Confusion matrix
 Classification report
 
 Results
+
 The Decision Tree provides a simple and interpretable model
 The Random Forest improves accuracy by reducing overfitting
 Random Forest generally performs better due to ensemble learning
 
 Key Learnings
+
 Understanding tree-based models
 Difference between single tree vs ensemble methods
 Importance of feature selection
 Handling real-world datasets
 
 📬 Future Improvements
+
 Hyperparameter tuning
 Cross-validation
 Feature importance analysis
