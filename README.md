@@ -21,11 +21,16 @@ Evaluate accuracy and other metrics
 Technologies Used
 
 Python 🐍
+
 Jupyter Notebook
+
 Libraries:
 pandas
+
 numpy
+
 matplotlib / seaborn
+
 scikit-learn
 
 Project Workflow
