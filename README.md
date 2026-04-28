@@ -1,11 +1,11 @@
 # ARTI308-Lab9\
 📊 Decision Trees & Random Forest Project
-📌 Overview
+
+ Overview
 
 This project demonstrates the implementation of Decision Tree and Random Forest algorithms for classification using a loan dataset. The goal is to build models that can predict loan approval status based on applicant features.
 
 📂 Dataset
-
 The dataset used in this project is:
 
 loan_data.csv
